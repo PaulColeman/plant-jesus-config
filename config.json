@@ -1,5 +1,6 @@
 {
   "plant1": {
+    "name": "Sample name"
     "dry": 20000,
     "water": 4
   }
