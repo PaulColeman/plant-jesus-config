@@ -1,4 +1,5 @@
 {
+  "check_frequency": 20,
   "plant1": {
     "name": "CatMorr's Plant"
     "dry": 20000,
