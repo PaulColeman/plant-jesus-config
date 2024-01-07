@@ -1,5 +1,5 @@
 {
-  "check_frequency": 8,
+  "check_frequency": 5,
   "plant1": {
     "name": "Glass Jar"
     "dry": 600,
