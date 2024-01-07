@@ -1,8 +1,13 @@
 {
   "check_frequency": 8,
   "plant1": {
-    "name": "CatMorr's Plant"
+    "name": "Glass Jar"
     "dry": 600,
     "water": 5
-  }
+  },
+  "plant2": {
+    "name": "Plastic Cup"
+    "dry": 600,
+    "water": 5
+  }  
 }
