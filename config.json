@@ -2,12 +2,12 @@
   "check_frequency": 5,
   "plant1": {
     "name": "Glass Jar"
-    "dry": 600,
+    "waterUnder": 70,
     "water": 5
   },
   "plant2": {
     "name": "Plastic Cup"
-    "dry": 600,
+    "waterUnder": 60,
     "water": 5
   }  
 }
